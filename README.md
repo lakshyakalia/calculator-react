@@ -3,7 +3,7 @@
 ![calculator image](image.png)
 
 ## Overview
-The **Calculator Application** is a user-friendly, interactive web-based calculator built using ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB). This application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Its intuitive interface and responsive design make it accessible across desktop, tablet, and mobile devices.
+The **Calculator Application** is a user-friendly, interactive web-based calculator built using **React**. This application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Its intuitive interface and responsive design make it accessible across desktop, tablet, and mobile devices.
 
 ## Features
 - **Simple Arithmetic Operations**: Supports addition (+), subtraction (-), multiplication (*), and division (/).
@@ -65,5 +65,3 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-For questions, feedback, or contributions, please reach out via [your email] or open an issue on the [GitHub repository](https://github.com/your-username/calculator-app).
